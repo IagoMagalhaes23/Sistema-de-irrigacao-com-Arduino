@@ -1,4 +1,4 @@
-# Sistema de irrigação com Arduino
+# Sistema de irrigação com Arduino e ESP32
 
 ## Introdução
 
