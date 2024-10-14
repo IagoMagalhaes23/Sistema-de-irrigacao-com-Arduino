@@ -4,9 +4,9 @@
 
 ## Objetivos
 
-## Utilização
+## Como utilizar
 
-## Metodologia
+## Como instalar
 
 ## Construção
 
