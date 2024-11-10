@@ -7,8 +7,6 @@
 
 ## Como utilizar
 
-## Como instalar
-
 ## Construção
 
 ## Estrutura do projeto
