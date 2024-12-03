@@ -16,6 +16,8 @@
 ## Como utilizar
 -
 
+## Figma
+
 ## Construção
 
 ## Estrutura do projeto
