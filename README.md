@@ -42,6 +42,10 @@
 ## Resultados
 
 ## Aplicações
+- Acionamento programado de motores;
+- Acionamento remoto;
+- Controle de tempo de ativação;
+- Gereciamento de dados.
 
 ## Referências
 - []()
