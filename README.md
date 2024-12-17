@@ -9,21 +9,35 @@
 
 ## Objetivos
 - Desenvolver protótipo para acionamento de motores elétricos;
+- Implementar sistema para monitoramento de tempo de ativação do motor elétrico;
 - Desenvolver aplicativo para acionamentos remotos e programados;
 - Implementar circuito de comando com contator;
 - Aplicar estudo de viabilidade de aplicação para o sistema na agricultura.
 
+## Figma
+
 ## Como utilizar
 -
 
-## Figma
-
 ## Construção
 
-## Estrutura do projeto
+### Componentes
 
-### Esp 32
-### Módulo Rele
+| Componente         | Quantidade |
+| :---               |    :---:   |
+| ESP32              |      1     |
+| Sensor de corrente |      1     |
+| Modulo rele        |      1     |
+| Modulo RTC         |      1     |
+| Display OLED       |      1     |
+| Push Buttons       |      4     |
+| Ttransistores BC547|      2     |
+| Resistores         |      6     |
+| Diodo              |      2     |
+| Conectores KRE     |      2     |
+| Conector Jack      |      1     |
+
+## Estrutura do projeto
 
 ## Resultados
 
