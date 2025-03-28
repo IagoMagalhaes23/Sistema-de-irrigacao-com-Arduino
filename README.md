@@ -8,13 +8,13 @@
 ## Apresentação
 
 ## Objetivos
-- Desenvolver protótipo para acionamento de motores elétricos;
+- Desenvolver protótipo para acionamento de motores elétricos para irrigação;
 - Implementar sistema para monitoramento de tempo de ativação do motor elétrico;
 - Desenvolver aplicativo para acionamentos remotos e programados;
 - Implementar circuito de comando com contator;
 - Aplicar estudo de viabilidade de aplicação para o sistema na agricultura.
 
-## Figma
+## Telas do App
 
 ## Como utilizar
 -
