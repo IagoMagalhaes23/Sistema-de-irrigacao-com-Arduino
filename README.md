@@ -1,4 +1,4 @@
-# Sistema de irrigação com Arduino e ESP32
+# Sistema de irrigação com ESP32
 
 ## Autores
 - Iago Magalhães
